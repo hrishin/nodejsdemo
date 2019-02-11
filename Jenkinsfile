@@ -2,7 +2,7 @@
 
 osio {
 
-  config runtime: 'node'
+  config runtime: 'node', version: 'latest'
 
   ci {
 
